@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bill-theKid
+- 👀 I’m interested in Cryptography, Web3, Data Science
+- 🌱 I’m currently learning Full stack web development, General Cybersecurity
+- 💞️ I’m looking to collaborate on anything that will inspire me and help to improve my skills
+- 📫 How to reach me: email me at WilliamPPearce@gmail.com
