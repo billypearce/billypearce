@@ -24,3 +24,7 @@ myself some more about writing web apps and to practice my Rust programming.
 - Writing music
 - Rock Climbing
 - Camping/Hiking
+
+## Contact Me
+
+[mailto:williamppearce@gmail.com](WilliamPPearce@gmail.com)
