@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Billy Pearce.
 
-I am a recent graduate from Sam Houston State University with a degree in Software Engineering. 
-I'm currently pursuing a job as a Full Stack Engineer.
+I am a recent graduate from Sam Houston State University with a degree in software engineering. 
+I'm currently pursuing a job as a full stack engineer.
 
 ## About My Work
 
