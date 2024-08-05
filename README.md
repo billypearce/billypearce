@@ -27,4 +27,4 @@ myself some more about writing web apps and to practice my Rust programming.
 
 ## Contact Me
 
-[mailto:williamppearce@gmail.com](WilliamPPearce@gmail.com)
+[WilliamPPearce@gmail.com](mailto:williamppearce@gmail.com)
