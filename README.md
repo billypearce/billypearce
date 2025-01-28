@@ -1,29 +1,27 @@
 # 👋 Hi, I’m Billy Pearce.
 
-I am a recent graduate from Sam Houston State University with a degree in software engineering. 
-I'm currently pursuing a job as a full stack engineer.
+I am a graduate from Sam Houston State University with a degree in software engineering, and I currently 
+program a mainframe for a manufacturing company.
 
-## About My Work
+## My Work
 
 Most of my work on GitHub includes coding projects from my time in school, however my latest project, 
 [Rust Web Chat](https://github.com/billypearce/rust-web-chat), is a solo project I wrote to teach 
 myself some more about writing web apps and to practice my Rust programming.
 
-## A Little More About Me
+## My Interests
 
-### Programming interests
+### Programming
 
 - Full Stack Web Dev
 - Audio DSP
-- Game Dev and Engine Programming
-- Embedded Systems
+- Game Engines
 
-### Other interests
+### Other Stuff
 
-- Playing guitar
-- Writing music
+- Guitar and Music Production
 - Rock Climbing
-- Camping/Hiking
+- Astronomy
 
 ## Contact Me
 
