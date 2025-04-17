@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Billy Pearce.
 
-I am a graduate from Sam Houston State University with a degree in software engineering, and I currently 
-program a mainframe for a manufacturing company.
+I program servers for a manufacturing company, and I like to program my personal projects in Rust.
+I like to learn every day, and have made the conscious decision to reject the use of AI coding tools while I
+continue to learn and hone my skills. Concentration and struggle will payoff much more than the
+instant gratification of an LLM.
 
 ## My Work
 
